@@ -14,7 +14,6 @@ import ItemAdd from './components/ItemAdd';
 import TaskReset from "./components/TaskReset";
 
 function App() {
-  // modificação para abrir o PR.
   return (
     <Router>
       <div className="App">
